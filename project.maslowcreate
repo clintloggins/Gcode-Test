@@ -134,6 +134,19 @@
                     "x": 1457,
                     "y": 182.5,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": null,
+                    "y": null,
+                    "uniqueID": 776879,
+                    "ioValues": [
+                        {
+                            "name": "2D shape 228737",
+                            "ioValue": 10
+                        }
+                    ]
                 }
             ],
             "allConnectors": [
