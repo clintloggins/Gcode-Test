@@ -181,6 +181,14 @@
                             "ioValue": 6
                         }
                     ]
+                },
+                {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": null,
+                    "y": null,
+                    "uniqueID": 448676,
+                    "ioValues": []
                 }
             ],
             "allConnectors": [
