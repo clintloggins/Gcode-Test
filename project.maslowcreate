@@ -164,6 +164,23 @@
                             "ioValue": 6
                         }
                     ]
+                },
+                {
+                    "atomType": "Gcode",
+                    "name": "Gcode",
+                    "x": null,
+                    "y": null,
+                    "uniqueID": 253281,
+                    "ioValues": [
+                        {
+                            "name": "tool size",
+                            "ioValue": 5.35
+                        },
+                        {
+                            "name": "passes",
+                            "ioValue": 6
+                        }
+                    ]
                 }
             ],
             "allConnectors": [
