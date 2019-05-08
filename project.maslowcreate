@@ -223,6 +223,19 @@
                             "ioValue": 10
                         }
                     ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": null,
+                    "y": null,
+                    "uniqueID": 432757,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
                 }
             ],
             "allConnectors": [
