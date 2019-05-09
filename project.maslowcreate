@@ -308,6 +308,36 @@
                             "ioValue": 6
                         }
                     ]
+                },
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": null,
+                    "y": null,
+                    "uniqueID": 777033,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": null,
+                    "y": null,
+                    "uniqueID": 142534,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
                 }
             ],
             "allConnectors": [
