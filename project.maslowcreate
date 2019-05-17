@@ -70,24 +70,6 @@
                     ]
                 },
                 {
-                    "atomType": "Equation",
-                    "name": "Equation",
-                    "x": 341,
-                    "y": 149,
-                    "uniqueID": 760590,
-                    "ioValues": [
-                        {
-                            "name": "x",
-                            "ioValue": 20
-                        },
-                        {
-                            "name": "y",
-                            "ioValue": 10
-                        }
-                    ],
-                    "currentEquation": 1
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 407,
@@ -109,6 +91,24 @@
                     ]
                 },
                 {
+                    "atomType": "Equation",
+                    "name": "Equation",
+                    "x": 527,
+                    "y": 202,
+                    "uniqueID": 760590,
+                    "ioValues": [
+                        {
+                            "name": "x",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y",
+                            "ioValue": 10
+                        }
+                    ],
+                    "currentEquation": 1
+                },
+                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 600.9615129396152,
@@ -116,8 +116,8 @@
                     "uniqueID": 473781,
                     "ioValues": [
                         {
-                            "name": "2D shape 870803",
-                            "ioValue": 10
+                            "name": "2D shape 623544",
+                            "ioValue": 0
                         },
                         {
                             "name": "2D shape 944142",
@@ -125,6 +125,10 @@
                         },
                         {
                             "name": "2D shape 623544",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 190574",
                             "ioValue": 10
                         }
                     ]
@@ -181,8 +185,14 @@
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "2D shape 870803",
+                    "ap2Name": "x",
                     "ap1ID": 550392,
+                    "ap2ID": 760590
+                },
+                {
+                    "ap1Name": "z",
+                    "ap2Name": "2D shape 623544",
+                    "ap1ID": 760590,
                     "ap2ID": 473781
                 },
                 {
