@@ -27,6 +27,24 @@
                     ]
                 },
                 {
+                    "atomType": "Equation",
+                    "name": "Equation",
+                    "x": 98,
+                    "y": 188,
+                    "uniqueID": 760590,
+                    "ioValues": [
+                        {
+                            "name": "x",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y",
+                            "ioValue": 0
+                        }
+                    ],
+                    "currentEquation": 0
+                },
+                {
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 260,
