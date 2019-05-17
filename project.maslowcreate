@@ -78,14 +78,14 @@
                     "ioValues": [
                         {
                             "name": "x",
-                            "ioValue": 0
+                            "ioValue": 20
                         },
                         {
                             "name": "y",
-                            "ioValue": 0
+                            "ioValue": 10
                         }
                     ],
-                    "currentEquation": 0
+                    "currentEquation": 1
                 },
                 {
                     "atomType": "Translate",
