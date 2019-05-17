@@ -27,24 +27,6 @@
                     ]
                 },
                 {
-                    "atomType": "Equation",
-                    "name": "Equation",
-                    "x": 98,
-                    "y": 188,
-                    "uniqueID": 760590,
-                    "ioValues": [
-                        {
-                            "name": "x",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "y",
-                            "ioValue": 0
-                        }
-                    ],
-                    "currentEquation": 0
-                },
-                {
                     "atomType": "Extrude",
                     "name": "Extrude",
                     "x": 260,
@@ -88,10 +70,28 @@
                     ]
                 },
                 {
+                    "atomType": "Equation",
+                    "name": "Equation",
+                    "x": 341,
+                    "y": 149,
+                    "uniqueID": 760590,
+                    "ioValues": [
+                        {
+                            "name": "x",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y",
+                            "ioValue": 0
+                        }
+                    ],
+                    "currentEquation": 0
+                },
+                {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 421,
-                    "y": 210,
+                    "x": 407,
+                    "y": 219,
                     "uniqueID": 550392,
                     "ioValues": [
                         {
